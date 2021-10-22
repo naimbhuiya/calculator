@@ -1,0 +1,45 @@
+.calculator{
+    
+    height: 360px;
+    width: 280px;
+    background: rgb(66, 63, 63);
+    margin: 100px auto;
+    padding: 5px ;
+    border: 2px solid rgb(4, 238, 255);
+}
+.form{
+    text-align: center center;
+}
+.main-contant{
+    margin-bottom: 10px ;
+    text-align: right;
+}
+.btn{
+    font-size: 20px;
+    cursor: pointer;
+    width: 60px;
+    
+}
+.line{
+    text-align: center;
+    margin-bottom:10px;
+}
+
+.last input{
+    width: 82px;
+}
+.vv{
+    background: rgb(13, 161, 112);
+  /* margin-top: -7.5px ; */
+    max-width: 254px;
+    margin: -8px auto;
+    border-radius: 5px;
+}
+.vv h1{
+    
+    padding: 6px 3px;
+    color: #fff;
+    text-align: center;
+    font-size: 17px ;
+    font-family: 'Helvetica';
+}
